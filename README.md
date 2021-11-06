@@ -4,7 +4,7 @@ Learning notes as I read the "Data Science on AWS book" by Chris Fregly & Antje 
 
 AWS Glue showing the "amazon_reviews_parquet" Athena table.
 
-![image](https://user-images.githubusercontent.com/51873343/140602892-11ad0f1a-08c0-49a3-9b24-8638977bfbd0.png)
+![image](https://user-images.githubusercontent.com/51873343/140603401-8bf9d052-8b26-4dad-8182-c6c6c26154c8.png)
 
 AWS CloudWatch has log groups of the 1) processing jobs and 2) training jobs.
 
