@@ -13,3 +13,15 @@ AWS CloudWatch has log groups of the 1) processing jobs and 2) training jobs.
 AWS S3
 
 ![image](https://user-images.githubusercontent.com/51873343/140603220-83304527-ce43-4e0b-9632-999423600845.png)
+
+Processing jobs in Amazon SageMaker
+
+![1 AWS SageMaker processing jobs](https://user-images.githubusercontent.com/51873343/142864525-3f1d87ff-091b-4925-b5b0-55f9d4993ab5.png)
+
+The report pipelines and explainability report are stored in Amazon S3.
+
+![Amazon S3 bias showing report pipelines and explainability report](https://user-images.githubusercontent.com/51873343/142864789-a1867583-9fc3-4a39-97f6-eb00956cb0e4.png)
+
+This is the Amazon SageMaker endpoint.
+
+![Amazon SageMaker endpoint](https://user-images.githubusercontent.com/51873343/142864862-6bb25957-d04d-4b55-9e48-5ee49da75c94.png)
