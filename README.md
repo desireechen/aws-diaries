@@ -29,3 +29,7 @@ This is the Amazon SageMaker endpoint.
 File system
 
 <img width="360" alt="fike system" src="https://user-images.githubusercontent.com/51873343/142866515-b5fc2bc0-15c8-4b4f-a863-f86103b5cdc6.png">
+
+Estimated spending (in SGD) after free tier
+
+<img width="620" alt="spending" src="https://user-images.githubusercontent.com/51873343/142868967-f23c37f0-7b36-4f7c-9d7a-745cde8c34af.png">
