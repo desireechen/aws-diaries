@@ -25,3 +25,7 @@ The report pipelines and explainability report are stored in Amazon S3.
 This is the Amazon SageMaker endpoint.
 
 ![Amazon SageMaker endpoint](https://user-images.githubusercontent.com/51873343/142864862-6bb25957-d04d-4b55-9e48-5ee49da75c94.png)
+
+File system
+
+<img width="360" alt="fike system" src="https://user-images.githubusercontent.com/51873343/142866515-b5fc2bc0-15c8-4b4f-a863-f86103b5cdc6.png">
